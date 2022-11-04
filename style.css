@@ -71,6 +71,7 @@ header.site-header {
   z-index: 1;
   background-color: #fff;
   padding-right: 40px;
+  align-items: center;
 }
 
 main {
